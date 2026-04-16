@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Hello World!</h1>
       <p>It's working :D</p>
+      <p>Mamy update</p>
     </>
   )
 }
